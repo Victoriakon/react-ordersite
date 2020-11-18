@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/react-ordersite/static/js/main.654edc89.chunk.js",
-    "main.js.map": "/react-ordersite/static/js/main.654edc89.chunk.js.map",
-    "runtime-main.js": "/react-ordersite/static/js/runtime-main.40e70bcb.js",
-    "runtime-main.js.map": "/react-ordersite/static/js/runtime-main.40e70bcb.js.map",
-    "static/js/2.01b8a0ce.chunk.js": "/react-ordersite/static/js/2.01b8a0ce.chunk.js",
-    "static/js/2.01b8a0ce.chunk.js.map": "/react-ordersite/static/js/2.01b8a0ce.chunk.js.map",
-    "static/js/3.b50ce7db.chunk.js": "/react-ordersite/static/js/3.b50ce7db.chunk.js",
-    "static/js/3.b50ce7db.chunk.js.map": "/react-ordersite/static/js/3.b50ce7db.chunk.js.map",
+    "main.js": "/react-ordersite/static/js/main.a08de318.chunk.js",
+    "main.js.map": "/react-ordersite/static/js/main.a08de318.chunk.js.map",
+    "runtime-main.js": "/react-ordersite/static/js/runtime-main.cb46bbad.js",
+    "runtime-main.js.map": "/react-ordersite/static/js/runtime-main.cb46bbad.js.map",
+    "static/js/2.2dc1a21a.chunk.js": "/react-ordersite/static/js/2.2dc1a21a.chunk.js",
+    "static/js/2.2dc1a21a.chunk.js.map": "/react-ordersite/static/js/2.2dc1a21a.chunk.js.map",
+    "static/js/3.4fabeb0b.chunk.js": "/react-ordersite/static/js/3.4fabeb0b.chunk.js",
+    "static/js/3.4fabeb0b.chunk.js.map": "/react-ordersite/static/js/3.4fabeb0b.chunk.js.map",
     "index.html": "/react-ordersite/index.html",
-    "static/js/2.01b8a0ce.chunk.js.LICENSE.txt": "/react-ordersite/static/js/2.01b8a0ce.chunk.js.LICENSE.txt",
+    "static/js/2.2dc1a21a.chunk.js.LICENSE.txt": "/react-ordersite/static/js/2.2dc1a21a.chunk.js.LICENSE.txt",
     "static/media/featured3.91821b41.jpg": "/react-ordersite/static/media/featured3.91821b41.jpg",
     "static/media/hair4.ca3bff82.jpg": "/react-ordersite/static/media/hair4.ca3bff82.jpg",
     "static/media/product-1.31380803.jpg": "/react-ordersite/static/media/product-1.31380803.jpg",
@@ -21,8 +21,8 @@
     "static/media/sweet-3.57ee9d7f.jpg": "/react-ordersite/static/media/sweet-3.57ee9d7f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.40e70bcb.js",
-    "static/js/2.01b8a0ce.chunk.js",
-    "static/js/main.654edc89.chunk.js"
+    "static/js/runtime-main.cb46bbad.js",
+    "static/js/2.2dc1a21a.chunk.js",
+    "static/js/main.a08de318.chunk.js"
   ]
 }
